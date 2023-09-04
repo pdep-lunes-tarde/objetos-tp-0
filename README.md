@@ -15,14 +15,16 @@
   
 2. Importá el proyecto en el entorno de desarrollo usando las opciones:
 
-  - File -> Import...
-  - Elegí esta opción para importar un repo usando el plugin Simplified Git y seguí los pasos para clonar tu repo
-  
-    ![Import sgit](imagenes/sgit-import.jpg)
-    
-  - Copiá la dirección para clonar tu repo que se obtiene de GitHub en el campo URI:
-  
-    ![Repo sgit](imagenes/sgit-uri.jpg)
+  - Clonate el proyecto usando git.
+  - Abrí wollok y andá a: File -> Import...
+  - Elegí esta opción para importar un repo usando git y seguí los pasos para clonar tu repo
+
+  ![image](https://github.com/pdep-lunes-tarde/objetos-tp-0/assets/11432672/a64d300c-1294-4236-8a68-ed8b4532b281)
+  ![image](https://github.com/pdep-lunes-tarde/objetos-tp-0/assets/11432672/2524de64-b2f7-40b4-baf2-542e64e6e3c4)
+![image](https://github.com/pdep-lunes-tarde/objetos-tp-0/assets/11432672/6efa8075-17c5-4fd9-81dd-1328214eccce)
+![image](https://github.com/pdep-lunes-tarde/objetos-tp-0/assets/11432672/88628cd2-fe74-4dfe-a061-eff107594c07)
+![image](https://github.com/pdep-lunes-tarde/objetos-tp-0/assets/11432672/15496ae4-c9a9-410b-811d-9e5afad235b5)
+![image](https://github.com/pdep-lunes-tarde/objetos-tp-0/assets/11432672/5efe495b-a63e-4791-8931-0cd927140116)
 
 3. Una vez que tengas tu proyecto en el IDE, corré las pruebas como se indica en la sección **Cómo ejecutar la solución** del `README.md` que se encuentra en la raíz del proyecto (vale correr sólo las del TP0 o las de todo el proyecto, al haber sólo un TP el resultado será el mismo).
 
@@ -53,28 +55,6 @@
 
 Al igual que en los otros trabajos, deberías subir tu solución a GitHub. Podés usar tanto la terminal del sistema operativo (o gitbash) como venías haciendo hasta ahora, o también podés usar un plugin integrado al IDE de Wollok. Para que se muestre usá estas opciones:
 
-   ![Abrir vista](imagenes/sgit-1.jpg)
-   
-   ![Elegir sgit](imagenes/sgit-2.jpg)
-   
-  > Hay otro plugin similar llamado Git Staging que incluye otras opciones que no consideramos relevantes, y no incluye las opciones de Pull (para integrar los cambios en GitHub que no estén en el repo local) y Push (útil en caso de problemas de conectividad y potenciales conflictos).
-
-1. Luego de seleccionar tu proyecto debería aparecer la lista de archivos modificados. Para agregar todos tus cambios a lo que será tu siguiente commit:
-
-   ![Agregar todos los cambios](imagenes/sgit-add.jpg)
-   
-   Luego de agregarlos, los archivos modificados van a moverse a la lista de abajo (Staged changes), indicando que esos archivos se incluirán en el siguiente commit.
-   
-   ![Agregar todos los cambios](imagenes/sgit-cambios-agregados.jpg)
-   
-2. Commitear tus cambios con un mensaje representativo y pushearlos al repo remoto:
-   
-   ![Commit and push](imagenes/sgit-commit-and-push.jpg)
-   
-   > La primera vez que commitees con un autor que no tengas configurado te va a pedir el mail únicamente. Es para una configuración local de git, no es muy relevante.
-   >
-   > ![Author](imagenes/sgit-first-commit.jpg)
+![image](https://github.com/pdep-lunes-tarde/objetos-tp-0/assets/11432672/7fdfabfe-4cc2-4f70-9817-8d8565f390c2)
 
 Ya sabés que podés subir tu solución tantas veces como quieras. **Es recomendable hacer commits chicos y frecuentes**, en vez de un solo gran commit con todo lo que se pedía resolver.
-
-> En caso de que tengas problemas con el plugin Simplified Git, vale usar el plugin Git Staging junto con otras opciones del IDE que se mencionan en apuntes que están en la página, y también podés usar los comandos de siempre usando gitbash.
