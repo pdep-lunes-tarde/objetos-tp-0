@@ -18,13 +18,11 @@
   - Clonate el proyecto usando git.
   - Abrí wollok y andá a: File -> Import...
   - Elegí esta opción para importar un repo usando git y seguí los pasos para clonar tu repo
-
-  ![image](https://github.com/pdep-lunes-tarde/objetos-tp-0/assets/11432672/a64d300c-1294-4236-8a68-ed8b4532b281)
-  ![image](https://github.com/pdep-lunes-tarde/objetos-tp-0/assets/11432672/2524de64-b2f7-40b4-baf2-542e64e6e3c4)
-![image](https://github.com/pdep-lunes-tarde/objetos-tp-0/assets/11432672/6efa8075-17c5-4fd9-81dd-1328214eccce)
-![image](https://github.com/pdep-lunes-tarde/objetos-tp-0/assets/11432672/88628cd2-fe74-4dfe-a061-eff107594c07)
-![image](https://github.com/pdep-lunes-tarde/objetos-tp-0/assets/11432672/15496ae4-c9a9-410b-811d-9e5afad235b5)
-![image](https://github.com/pdep-lunes-tarde/objetos-tp-0/assets/11432672/5efe495b-a63e-4791-8931-0cd927140116)
+<img width="435" alt="Screenshot 2023-09-04 125646" src="https://github.com/pdep-lunes-tarde/objetos-tp-0/assets/11432672/5fc6cfcc-5057-4b63-94fc-b6572cde7500">
+<img width="741" alt="Screenshot 2023-09-04 130429" src="https://github.com/pdep-lunes-tarde/objetos-tp-0/assets/11432672/4ba0f300-65d5-4423-ac3e-8552bf72b95a">
+<img width="431" alt="Screenshot 2023-09-04 130439" src="https://github.com/pdep-lunes-tarde/objetos-tp-0/assets/11432672/613fdb31-9dda-4137-b473-c70857e29039">
+<img width="639" alt="Screenshot 2023-09-04 130448" src="https://github.com/pdep-lunes-tarde/objetos-tp-0/assets/11432672/68afb1e1-d717-4243-9439-8b07c29d6a8d">
+<img width="646" alt="Screenshot 2023-09-04 130454" src="https://github.com/pdep-lunes-tarde/objetos-tp-0/assets/11432672/84219c75-9505-4369-a7d2-ce73d64bccc9">
 
 3. Una vez que tengas tu proyecto en el IDE, corré las pruebas como se indica en la sección **Cómo ejecutar la solución** del `README.md` que se encuentra en la raíz del proyecto (vale correr sólo las del TP0 o las de todo el proyecto, al haber sólo un TP el resultado será el mismo).
 
@@ -55,6 +53,7 @@
 
 Al igual que en los otros trabajos, deberías subir tu solución a GitHub. Podés usar tanto la terminal del sistema operativo (o gitbash) como venías haciendo hasta ahora, o también podés usar un plugin integrado al IDE de Wollok. Para que se muestre usá estas opciones:
 
-![image](https://github.com/pdep-lunes-tarde/objetos-tp-0/assets/11432672/7fdfabfe-4cc2-4f70-9817-8d8565f390c2)
+<img width="523" alt="Screenshot 2023-09-04 130601" src="https://github.com/pdep-lunes-tarde/objetos-tp-0/assets/11432672/093cbcec-d731-49ef-b2e0-f215e563886f">
+
 
 Ya sabés que podés subir tu solución tantas veces como quieras. **Es recomendable hacer commits chicos y frecuentes**, en vez de un solo gran commit con todo lo que se pedía resolver.
